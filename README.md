@@ -1,4 +1,4 @@
-# The EchTable - Interactive framework & fast CLI for managing and executing stored commands with variables and load configurations
+# EchTable
 
 ![ECHTABLE Banner](https://img.shields.io/badge/The%20EchTable-Interactive%20Framework%20%26%20Fast%20CLI-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-green)
